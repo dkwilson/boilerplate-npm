@@ -14,5 +14,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": {"DKeith Wilson"}
+	"author": {
+		"name": "DKeith Wilson"}
 }
