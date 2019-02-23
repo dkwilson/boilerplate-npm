@@ -14,7 +14,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"contributors": {
-		"author": "DKeith Wilson"
-	}
+	"author": "DKeith Wilson"
+	
 }
